@@ -165,7 +165,7 @@ include "dbConnection.php";
          <!-- CONTACT -->
          <div id="contact">
             <div class="line">
-               <h2 class="section-title">Contact Us</h2>
+               <h2 class="section-title">Contact Details</h2>
                <div class="margin">
                   <div class="s-12 m-12 l-3 hide-m hide-s margin-bottom right-align">
                     <img src="img/contact.jpg" alt="">
