@@ -1,0 +1,96 @@
+﻿#about-us {
+	background: none repeat scroll 0 0 #00283a;
+	clear: both;
+
+}
+
+article h1, article h2 {
+	color:white;
+
+}
+
+article h2 {
+	font-size: 8em;
+	font-weight: 900;
+	letter-spacing: -2px;
+	line-height: 0.9;
+	margin: 0 0 0.625em 0
+}
+
+body {
+	background:none repeat scroll 0 0 #00283a;
+	font-size:70%;
+  font-family:"Open Sans",Arial,sans-serif;
+  color:#444;
+
+  }
+
+h1, h2{
+  color:#444;
+  font-weight: lighter;
+  margin:0.2em 0 0.2em 0;    
+}
+
+h1 {font-size:3.4em; font-family:"Bauhaus 93"}
+
+h2 {font-size:2em; font-family:"Bauhaus 93"}  
+
+
+.s-12 {width:100%; }
+.m-12 {width:100%;}
+.l-6 {width:50%; }
+.c-1{margin-left:350; margin-top:200px;}
+.l-4 {width:33.3333%;}
+.l-5 {width:41.6666%;}
+.m-6 {width:50%;}
+.l-3 {width:25%;}
+.c-2{margin-left:1020; margin-top:-380;}
+.c-3{margin-left:1020; margin-top:430;}
+
+a.color-btn, form.customform button.color-btn {
+	background: none;
+	border: 1px solid white;
+	border-radius: 3px;
+	color: white;
+	display: block;
+	font-size: 1.6em;
+	padding: 0.625em 1.25em;
+	transition: all 0.20s linear 0s;
+	-o-transition: all 0.20s linear 0s;
+	-ms-transition: all 0.20s linear 0s;
+	-moz-transition: all 0.20s linear 0s;
+	-webkit-transition: all 0.20s linear 0s;
+}
+a.color-btn:hover, form.customform button.color-btn:hover {
+	border: 1px solid #92c500;
+	color: #92c500;
+}
+
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.icon3x {font-size: 3em;}
+i, .icon {
+  font-family: 'mfg';
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  color:#e3e3e3;
+}
+.icon-tablet:before { content: "\f033"; }
